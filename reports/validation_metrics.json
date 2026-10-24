@@ -1,0 +1,42 @@
+[
+  {
+    "model": "cnn",
+    "split": "validation",
+    "samples": 816,
+    "accuracy": 0.7683823529411765,
+    "macro_f1": 0.7895064483985177,
+    "best_epoch": null
+  },
+  {
+    "model": "transformer_e0",
+    "split": "validation",
+    "samples": 816,
+    "accuracy": 0.6458333333333334,
+    "macro_f1": 0.6782124636328721,
+    "best_epoch": 14
+  },
+  {
+    "model": "transformer_e1",
+    "split": "validation",
+    "samples": 816,
+    "accuracy": 0.7083333333333334,
+    "macro_f1": 0.7285671805402443,
+    "best_epoch": 14
+  },
+  {
+    "model": "ast_full",
+    "split": "validation",
+    "samples": 816,
+    "accuracy": 0.9080882352941176,
+    "macro_f1": 0.9180237539127327,
+    "best_epoch": 3
+  },
+  {
+    "model": "ast_head",
+    "split": "validation",
+    "samples": 816,
+    "accuracy": 0.8566176470588235,
+    "macro_f1": 0.8746365379203022,
+    "best_epoch": 19
+  }
+]

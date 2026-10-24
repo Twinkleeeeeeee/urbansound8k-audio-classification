@@ -1,0 +1,21 @@
+{
+  "mean": -8.378008535925611,
+  "std": 20.33079721927466,
+  "samples": 7079,
+  "elements": 57085056,
+  "fit_folds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "epsilon": 1e-08,
+  "scope": "one scalar mean/std over all training Log-Mel values, including padding",
+  "std_definition": "population standard deviation (ddof=0)",
+  "metadata_sha256": "b207f7a53f9e5eb02a5dd71d58fb8b66c88c24c0637b926dc72d9d400a6a2354",
+  "dataset_source_sha256": "d05e37ca6ef0772cfc398ef5c52362627c8f5ffdf754e7d6a4011870518d5a62"
+}

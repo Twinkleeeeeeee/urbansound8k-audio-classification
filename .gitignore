@@ -1,0 +1,36 @@
+# 本地环境与编辑器
+.venv/
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+# 数据、下载缓存、完整实验和备份保留在本地
+/data/
+/models/
+/results/
+/backups/
+/output/
+/tmp/
+*.wav
+*.mp3
+*.flac
+*.pt
+*.pth
+*.safetensors
+*.npy
+*.log
+/waveforms.png
+/focus_spectrograms.png
+# 与项目无关的早期练习
+/Demo.py
+/linear_regression.py
+/mlp.py
+/practice.py
+/softmax.py
+/tokens_divide.py
+/utils.py

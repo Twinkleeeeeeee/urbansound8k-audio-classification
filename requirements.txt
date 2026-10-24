@@ -1,0 +1,11 @@
+# 先按 https://pytorch.org/get-started/locally/ 安装配套的 torch / torchaudio。
+# 直接依赖清单；实际实验版本记录于 reports/environment.json。
+torch
+torchaudio
+transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+soundfile
+safetensors

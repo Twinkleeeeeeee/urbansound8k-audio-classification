@@ -1,0 +1,11 @@
+{
+  "validation_runs": {
+    "cnn": "results/step5_validation/20261015_211927_259155_a3ec280e",
+    "transformer_e0": "results/step6_transformer/20261016_121144_056759",
+    "transformer_e1": "results/step6_5_normalization/20261016_163311_346140",
+    "ast_full": "results/ast/20261019_101342_538523",
+    "ast_head": "results/ast_head_only/20261023_120716_044617"
+  },
+  "ast_test_evaluation": "results/ast/20261019_101342_538523/evaluations/test_20261023_152455_410142",
+  "note": "这些路径记录作者本地证据来源，完整结果目录不随仓库发布。公开预测仅保留片段名、来源号、fold 和类别编号；不含音频。"
+}

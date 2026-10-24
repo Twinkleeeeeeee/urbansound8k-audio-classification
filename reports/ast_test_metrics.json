@@ -1,0 +1,13 @@
+{
+  "split": "test",
+  "samples": 837,
+  "loss": 0.3797836181225885,
+  "accuracy": 0.8960573476702509,
+  "macro_f1": 0.9046455162888266,
+  "test_evaluated": true,
+  "selected_epoch": 3,
+  "correct": 750,
+  "errors": 87,
+  "checkpoint_sha256": "ca96510eeba418fadc301432dcc4873c35395d14dde836556112fdb3f75c5f91",
+  "selection_fixed_before_test": true
+}

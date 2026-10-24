@@ -1,0 +1,17 @@
+{
+  "platform": "Windows, RTX 3050 Laptop 4GB",
+  "python": "3.14.7",
+  "packages": {
+    "torch": "2.14.1+cu126",
+    "torchaudio": "2.11.0+cu126",
+    "transformers": "5.19.0",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "soundfile": "0.14.0",
+    "safetensors": "0.8.0"
+  },
+  "fresh_install_verified": false,
+  "note": "原环境实际版本记录。torch 与 torchaudio 版本并非同版本配套；不建议作为新环境的安装锁定文件。新环境请使用官方兼容组合。"
+}
